@@ -39,7 +39,7 @@ export default function Home() {
           <p className="bg-gray-100 p-4 rounded text-sm font-mono mt-4">
             API Endpoint Format: <br />
             <code>
-              curl &quot;https://us-central1-zawya-83b19.cloudfunctions.net/submit/&#123;list transaction descriptions&#125;-&#123;list dates&#125;-&#123;list transaction amounts&#125;-budget.json&quot;
+              curl &quot;https://us-central1-zawya-83b19.cloudfunctions.net/submit/&#123;list transaction descriptions&#125;-&#123;list dates&#125;-&#123;list transaction amounts&#125;-budget.jpg&quot;
             </code>
           </p>
 
